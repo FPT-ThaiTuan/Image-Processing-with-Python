@@ -18,3 +18,13 @@
       - "Video Edges" window: Displays the video with each frame converted to black and white and then edges detected using the Canny method. 
       ![result_video](https://github.com/FPT-ThaiTuan/Image-Processing-with-Python/assets/105273233/882e61dd-da62-4601-b0cc-661e30e66aad)
 
+
+### **Hope this article can help you.**
+
+### **If you have any questions please contact me for help!**
+
+### **Gmail: tuanddt.ai.work@gmail.com**
+
+### ***Thanks everyone!***
+
+
