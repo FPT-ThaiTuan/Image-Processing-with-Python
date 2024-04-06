@@ -9,10 +9,14 @@
 
 - The image processing focused project will focus on using the OpenCV library with the Python programming language to perform a series of basic exercises related to image processing.There are also simple instructions for recording and reading videos in real time.
   - Exercises on image processing
-    - 2.1. Basic image processing with OpenCV
-    - 2.2. Salt and Pepper Noise
+    - Basic image processing with OpenCV
+    - Salt and Pepper Noise
+    - Add watermark
+    - Emboss image
+    - Images of Erosion and Dilation
+    - Sharpen image
   - Exercises on video processing
-    - 2.3. Read video from webcam displayed with three windows in real time
+    - Read video from webcam displayed with three windows in real time
       - "Original Video" window: Displays the original video with the original color of each frame.
       - "Black and White Video" window: Displays the video with each frame converted to black and white.
       - "Video Edges" window: Displays the video with each frame converted to black and white and then edges detected using the Canny method. 
