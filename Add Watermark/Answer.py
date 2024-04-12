@@ -1,7 +1,7 @@
 import cv2
 
 # open an image using opencv
-imgOriginal = cv2.imread('./Image/test.jpg')
+imgOriginal = cv2.imread('./Data/test.jpg')
 img = cv2.resize(imgOriginal, (640, 304))
 
 cv2.imshow('Origin Image', img)
