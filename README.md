@@ -9,12 +9,25 @@
 
 - The image processing focused project will focus on using the OpenCV library with the Python programming language to perform a series of basic exercises related to image processing.There are also simple instructions for recording and reading videos in real time.
   - Exercises on image processing
-    - Basic image processing with OpenCV
-    - Salt and Pepper Noise
+    - Add Image Noise
+      - Gaussian noise
+      - Salt and Pepper Noise
     - Add watermark
+    - Cointour Detection
+    - Collage Image
+    - Combined Image
+    - Contour Image
     - Emboss image
-    - Images of Erosion and Dilation
-    - Sharpen image
+    - Erosion and Dilation
+    - Feature Mapping Image
+    - Basic image processing with OpenCV
+    - Remove Background
+    - Remove image noise
+      - Gaussian noise
+      - Salt and Pepper Noise
+    - Sharpen Image
+    - Sketch Image
+    - Vignette filter
   - Exercises on video processing
     - Read video from webcam displayed with three windows in real time
       - "Original Video" window: Displays the original video with the original color of each frame.
